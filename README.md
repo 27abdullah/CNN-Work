@@ -1,5 +1,5 @@
 # CNN-Work
-Welcome to the CNN-Work repository! This project encompasses various work related to Convolutional Neural Networks (CNNs) and other machine learning models. Below is a summary of the projects contained in this repository:
+This project encompasses various work related to Convolutional Neural Networks (CNNs) that I have done so far for a Pattern Recognition and Analysis course.
 
 
 ## Eigenfaces Analysis
