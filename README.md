@@ -1,5 +1,5 @@
 # CNN-Work
-This repository includes some CNN code that I have written for a Pattern Recognition and Analysis course that I am currently taking at university.
+This repository includes some CNN code that I have written for a pattern recognition and analysis course that I am currently taking at university.
 
 
 ## Eigenfaces Analysis
