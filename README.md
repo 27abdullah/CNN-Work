@@ -1,5 +1,5 @@
 # CNN-Work
-This project encompasses various work related to Convolutional Neural Networks (CNNs) that I have done so far for a Pattern Recognition and Analysis course.
+This project encompasses various work related to Convolutional Neural Networks (CNNs) that I have done so far for a Pattern Recognition and Analysis course that I am currently taking at university.
 
 
 ## Eigenfaces Analysis
