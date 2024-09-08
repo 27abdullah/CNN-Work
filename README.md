@@ -7,8 +7,8 @@ This project involves comparing the effectiveness of Principal Component Analysi
 
 * Dataset: Labelled Faces in the Wild (LFW)
 * Models:
- * PCA + Random Forest Regressor: Uses PCA to reduce dimensionality and a Random Forest to predict facial features.
- * CNN: A simple CNN with three convolutional layers, max-pooling, and dense layers.
+   * PCA + Random Forest Regressor: Uses PCA to reduce dimensionality and a Random Forest to predict facial features.
+   * CNN: A simple CNN with three convolutional layers, max-pooling, and dense layers.
 * Objective: Match faces to names and analyze performance.
 
 
@@ -24,6 +24,6 @@ This project uses Generative Adversarial Networks (GANs) to generate realistic b
 
 * Dataset: OASIS
 * Models: 
- * Discriminative Network: Identifies fake brain MRI images.
- * Generative Network: Creates realistic brain MRI images.
+   * Discriminative Network: Identifies fake brain MRI images.
+   * Generative Network: Creates realistic brain MRI images.
 * Objective: Generate high-quality brain MRI images for research purposes.
